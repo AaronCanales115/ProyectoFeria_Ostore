@@ -1,0 +1,85 @@
+[
+{
+"Descripcion": "Zapatos adidas negro",
+"PrecioVenta": 1000.00,
+"URL": "Imgs/product_1.png",
+"Categoria": "Calzado"
+}
+,
+{
+"Descripcion": "Camiseta para hombre negra",
+"PrecioVenta": 1200.00,
+"URL": "Imgs/product_2.png",
+"Categoria": "Ropa"
+}
+,
+{
+"Descripcion": "Camisas polos de varios colores",
+"PrecioVenta": 4000.00,
+"URL": "Imgs/product_3.png",
+"Categoria": "Ropa"
+}
+,
+{
+"Descripcion": "Zapatos Converse negros",
+"PrecioVenta": 2500.00,
+"URL": "Imgs/product_4.png",
+"Categoria": "Calzado"
+}
+,
+{
+"Descripcion": "Cadenas de oro de 15 kilates",
+"PrecioVenta": 1800.00,
+"URL": "Imgs/product_5.png",
+"Categoria": "Joyeria"
+}
+,
+{
+"Descripcion": "Zapatos Nike Blancos",
+"PrecioVenta": 1030.00,
+"URL": "Imgs/product_6.png",
+"Categoria": "Calzado"
+}
+,
+{
+"Descripcion": "zapatos blancos",
+"PrecioVenta": 700.00,
+"URL": "Imgs/product_7.png",
+"Categoria": "Calzado"
+}
+,
+{
+"Descripcion": "Camisas chidas de pinguino.",
+"PrecioVenta": 200.00,
+"URL": "Imgs/product_8.png",
+"Categoria": "Ropa"
+}
+,
+{
+"Descripcion": "Pantalon azul levis",
+"PrecioVenta": 800.00,
+"URL": "Imgs/product_9.png",
+"Categoria": "Ropa"
+}
+,
+{
+"Descripcion": "Pantalon azul",
+"PrecioVenta": 1000.00,
+"URL": "Imgs/product_10.png",
+"Categoria": "Ropa"
+}
+,
+{
+    "Descripcion": "Pantalon azul levis",
+    "PrecioVenta": 800.00,
+    "URL": "Imgs/product_9.png",
+    "Categoria": "Ropa"
+    }
+    ,
+    {
+    "Descripcion": "Pantalon azul",
+    "PrecioVenta": 1000.00,
+    "URL": "Imgs/product_10.png",
+    "Categoria": "Ropa"
+    }
+]
